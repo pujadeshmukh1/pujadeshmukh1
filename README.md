@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [TATA 1mg Clone](https://github.com/Aditi101049/1mg-clone)
 
-- 👨‍💻 All of my projects are available at [https://github.com/pujadeshmukh1/ZEETV5-Project](https://github.com/pujadeshmukh1/ZEETV5-Project)
+- 👨‍💻 All of my projects are available at [https://pujadeshmukh1.github.io/](https://pujadeshmukh1.github.io/)
 
 - 💬 Ask me about **HTML, CSS, JavaScripts, Java, DSA, SpringBoot, MySQL, Hibernate..**
 
