@@ -18,9 +18,7 @@
 
 - 📫 How to reach me **deshmukpooja976@gmail.com**
 
-- 📄[Know about my experiences][Click Here](https://drive.google.com/file/d/1bkpvSi_MXlnbeouMQzrMF0BiMmVN8OP6/view?usp=sharing){:target="_blank"}
-
-      
+- 📄<a href="https://drive.google.com/file/d/1bkpvSi_MXlnbeouMQzrMF0BiMmVN8OP6/view?usp=sharing" onclick="window.open(this.href); return false;">Click Here</a>
 
 
 <h3 align="left">Connect with me:</h3>
