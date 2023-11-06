@@ -35,6 +35,14 @@
   <img src="https://th.bing.com/th/id/OIP.3yIVq4yaJnIb40HUu7GZxAHaIc?w=171&h=195&c=7&r=0&o=5&dpr=1.5&pid=1.7" alt="aws" width="50" height="40"/> 
   
   <img src="https://th.bing.com/th/id/OIP.eQRqVTzi6ep_wZku3iDmEAHaIZ?pid=ImgDet&rs=1" alt="aws" width="50" height="40"/> 
+
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="aws" width="50" height="40"/> 
+
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="aws" width="50" height="40"/> 
+
+  
+
+  
   
   
 
