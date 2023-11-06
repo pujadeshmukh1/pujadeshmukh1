@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **deshmukpooja976@gmail.com**
 
-- 📄Resume <a href="https://drive.google.com/file/d/1POfwdDo2PwkGXabF2foxdE80kwXqJipL/view?usp=sharing" target="_blank" onclick="window.open(this.href); return false;">Click Here</a>
+- 📄Resume <a href="https://drive.google.com/file/d/1POfwdDo2PwkGXabF2foxdE80kwXqJipL/view" target="_blank" onclick="window.open(this.href); return false;">Click Here</a>
 
 
 <h3 align="left">Connect with me:</h3>
